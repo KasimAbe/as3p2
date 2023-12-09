@@ -1,4 +1,5 @@
 # as3p2-starter-f23
+video: https://clipchamp.com/watch/1AghR6j1Qmn
 ## Included material
 
 - backend binary, hello-server
