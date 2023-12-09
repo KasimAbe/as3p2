@@ -6,7 +6,7 @@ users:
     shell: /bin/bash
     sudo: ['ALL=(ALL) NOPASSWD:ALL']
     ssh-authorized-keys:
-      - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEM5+e6BrTHtLtgxY0jIOksY2+k2EUTagBdZ6JjZCrU9 kasimabe.78@gmail.com
+      - <insert-key-here>
 
 
 packages:
